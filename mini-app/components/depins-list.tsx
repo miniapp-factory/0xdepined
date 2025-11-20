@@ -16,6 +16,24 @@ export default function DepinsList() {
       description: "Second DEPIN project",
       url: "https://example.com/depin-2",
     },
+    {
+      id: "depin-3",
+      name: "DEPIN Three",
+      description: "Third DEPIN project",
+      url: "https://example.com/depin-3",
+    },
+    {
+      id: "depin-4",
+      name: "DEPIN Four",
+      description: "Fourth DEPIN project",
+      url: "https://example.com/depin-4",
+    },
+    {
+      id: "depin-5",
+      name: "DEPIN Five",
+      description: "Fifth DEPIN project",
+      url: "https://example.com/depin-5",
+    },
   ];
 
   return (

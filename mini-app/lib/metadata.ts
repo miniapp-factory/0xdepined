@@ -1,3 +1,3 @@
-export const title = "Track every DEPIN";
-export const description = "Track every DEPIN with the Mini App Factory App.";
+export const title = "DePIN Hub – All Decentralized Physical Infrastructure Projects in One Place";
+export const description = "DePIN Hub is a unified platform that brings together every major Decentralized Physical Infrastructure (DePIN) project in the ecosystem. The app provides clear project overviews, real-time data, token details, roadmap insights, and direct access links to official websites, dashboards, and documentation. With an intuitive interface and organized categories—such as wireless networks, compute, storage, mapping, energy, and sensor networks—DePIN Hub makes it easy for users to explore, compare, and track the entire DePIN landscape in one convenient place.";
 export const url = process.env.NEXT_PUBLIC_URL;
